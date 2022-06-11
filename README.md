@@ -2,6 +2,9 @@
 <img src="https://github.com/aenq/aenq/blob/main/aenq.gif" alt="Welcome" align="center">
 </div>
 
+## Github Stats
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
+
 
 ## Find me on
 <p>
@@ -12,11 +15,9 @@
 
 
 <hr>
-
 <div align="center">
 <p>Thank you for visiting my account, please leave something in my guest book 👇👇👇 :</p>
-<a href="https://github.com/aenq/aenq/issues/"><img src="https://github.com/aenq/aenq/blob/main/rachelgb.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/256/undefined/external-diary-stay-at-home-xnimrodx-lineal-color-xnimrodx.png"></a>
 </div>
-
 <hr>
-  
+
