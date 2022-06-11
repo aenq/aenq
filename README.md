@@ -3,6 +3,8 @@
 </div>
 
 ## Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&locale=en" alt="aenq" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
 
 
@@ -20,4 +22,9 @@
 <a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/256/undefined/external-diary-stay-at-home-xnimrodx-lineal-color-xnimrodx.png"></a>
 </div>
 <hr>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
+
+
 
