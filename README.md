@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aenq/aenq/blob/main/welcome-black.gif" alt="Welcome" align="center">
+<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome" align="center">
 </div>
 
 ## Personal Stuffs
