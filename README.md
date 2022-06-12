@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aenq/aenq/blob/main/aenq.gif" alt="Welcome" align="center">
+<img src="https://github.com/aenq/aenq/blob/main/welcome.gif" alt="Welcome" align="center">
 </div>
 
 ## Github Stats
