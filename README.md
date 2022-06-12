@@ -19,7 +19,7 @@
 <hr>
 <div align="center">
 <p>Thank you for visiting my account, please leave something in my guest book 👇👇👇 :</p>
-<a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/256/undefined/external-diary-stay-at-home-xnimrodx-lineal-color-xnimrodx.png"></a>
+<a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/128/undefined/external-diary-stay-at-home-xnimrodx-lineal-color-xnimrodx.png"></a>
 </div>
 <hr>
 
