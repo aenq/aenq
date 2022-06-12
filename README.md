@@ -2,7 +2,7 @@
 <img src="https://github.com/aenq/aenq/blob/main/aeng.gif" alt="Welcome" align="center">
 </div>
 
-## Personal Stuff
+## Personal Stuffs
 - 👸 My name is Rachel Marta Maria.
 - 💻 I'm majoring Information Systems.
 - 🌱 I'm currently learning UIUX, Web Development, and anything that interests me.
