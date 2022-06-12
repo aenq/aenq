@@ -27,4 +27,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
 
 
-
+<br> [![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw)
