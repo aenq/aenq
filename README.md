@@ -14,7 +14,7 @@
 
 
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&locale=en" alt="aenq" /></p>
+![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
 
 
