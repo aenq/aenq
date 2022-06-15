@@ -11,7 +11,7 @@
 
 **Now Playing** on Spotify <br><br>
 [![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw) <br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=3)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=3) -->
 
 ## Github Stats
 ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
