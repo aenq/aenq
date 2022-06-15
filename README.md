@@ -5,7 +5,7 @@
 ## Personal Stuffs
 - 👸 My name is Rachel Marta Maria.
 - 💻 I'm majoring Information Systems.
-- 🌱 I'm currently learning UIUX, Web Development, and anything that interests me.
+- 🌱 I'm currently learning UIUX Design, Web Development, and anything that interests me.
 - 😀 I like to watch movies, listen to sad songs, and travel even I'm a broke college student.
 - 💬 If you have any questions, just ask me.
 
