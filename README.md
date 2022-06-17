@@ -14,8 +14,14 @@
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=3) -->
 
 ## Github Stats
-![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
+<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
+ -->
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&langs_count=8&theme=radical&layout=dark) <br> <br>
+![Github Stars](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark)
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 
 ## Find me on
