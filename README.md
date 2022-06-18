@@ -31,12 +31,8 @@
 ---
 <div align="center">
 <p>Thank you for visiting my account, please leave something in my guest book 👇 :</p>
- <a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://github.com/aenq/aenq/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book" width="170"></a>
-
+ <a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://github.com/aenq/aenq/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
-
-
-
