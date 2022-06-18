@@ -31,9 +31,8 @@
 ---
 <div align="center">
 <p>Thank you for visiting my account, please leave something in my guest book 👇 :</p>
- <a href="https://github.com/aenq/aenq/issues"><img src="https://github.com/aenq/aenq/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book" align="center"></a>
+ <a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://github.com/aenq/aenq/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book" align="center"></a>
 
-<a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="GUEST_BOOK_GIF.gif" width="200"></a>
 </div>
 
 <br>
