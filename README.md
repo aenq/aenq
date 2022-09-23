@@ -18,7 +18,7 @@
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=dark&langs_count=9) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&layout=compact&theme=dark&langs_count=5) <br>
 ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&theme=dark&show_icons=true)
 
 
