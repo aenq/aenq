@@ -10,7 +10,7 @@
 - 💬 If you have any questions, just ask me.
 
 **Now Playing** on Spotify <br><br>
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=5&width=400)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=3&width=400)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw)
 <!-- [![Spotify](https://aenq.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw) <br> -->
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nufwbt70xpxz6e3xrp9dwixdw&count=3) -->
 
