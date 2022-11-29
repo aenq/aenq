@@ -3,7 +3,7 @@
 </div>
 
 ## Personal Stuffs
-- 👸 My name is Rachel Marta Maria.
+- 👸 Hi, this is Rachel.
 - 💻 I'm majoring Information Systems.
 - 🌱 I'm currently learning UIUX Design, Web Development, and anything that interests me.
 - 😀 I like to watch movies, listen to sad songs, and travel even I'm a broke college student.
