@@ -22,14 +22,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7) <br>
 ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&theme=dark&show_icons=true)
 
-
+<!--
 ## Find me on
 <p>
   <a href="mailto:rachelmartam@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/rachelmartam"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/rachelmartam"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-
+ -->
 ---
 <div align="center">
 <p>Thank you for visiting my account, please leave something in my guestbook 👇 :</p>
